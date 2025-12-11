@@ -36,18 +36,20 @@ make all
 ## Architecture and Structure
 
 ### File Structure
-- **`index.html`** - Interactive Christmas Party landing page with festive design, animations, and direct CTA to Issue #1
+- **`index.html`** - Professional Christmas Party landing page built with Openapi.com layout, header, and footer
+- **`assets/html/layout.html`** - Original Openapi.com layout template (365KB) containing complete page structure
 - **`README.md`** - Main party instructions and festive documentation
 - **`SANTA.md`** - Whimsical Christmas letter explaining the repository philosophy and party concept
 - **`Makefile`** - Contains both functional commands (`push`, `serve`) and documentation of the original setup process
 - **`assets/images/`** - Contains header images for the README and landing page
 
 ### Key Components
-1. **Landing Page** - index.html serves as the main entry point with prominent "Sign the Guestbook" call-to-action
-2. **Community Guestbook** - Issue #1 is the primary interaction point for the contest
-3. **Festive Documentation** - README and SANTA files provide context and encouragement
-4. **Interactive Features** - Landing page includes falling snow animation, hover effects, and Konami code easter egg
-5. **Automated Workflow** - Makefile handles git operations and local serving
+1. **Landing Page** - index.html integrates with Openapi.com's professional layout while featuring Christmas Party content
+2. **Layout Integration** - Uses authentic Openapi.com header, navigation, footer, and styling framework
+3. **Community Guestbook** - Issue #1 is the primary interaction point for the contest
+4. **Festive Documentation** - README and SANTA files provide context and encouragement
+5. **Interactive Features** - Landing page includes falling snow animation, Christmas-themed styling, and Konami code easter egg
+6. **Automated Workflow** - Makefile handles git operations and local serving
 
 ## Development Guidelines
 
@@ -70,24 +72,33 @@ make all
 ## Technical Notes
 
 ### Local Development
-- The `index.html` file is a complete, self-contained landing page with embedded CSS and JavaScript
-- Features interactive animations (falling snow, hover effects, bounce animations)
-- Responsive design that works on desktop and mobile
+- The `index.html` file integrates with Openapi.com's complete layout system
+- Uses authentic Openapi.com header, navigation, footer, and Bootstrap-based CSS framework
+- Features interactive Christmas-themed animations and styling
 - Can be served locally with any static file server using `make serve`
-- No build process required - everything is inline for simplicity
+- No build process required for the Christmas Party content
+
+### Layout Structure
+- **Header/Navigation**: Complete Openapi.com navigation with Products, Solutions, Resources menus
+- **Christmas Content**: Custom Christmas Party sections replace the original MCP content
+- **Footer**: Full Openapi.com footer with certifications, links, and company information
+- **Responsive Design**: Inherits Openapi.com's responsive Bootstrap framework
 
 ### Landing Page Features
-- **Call-to-Action**: Prominent button linking directly to Issue #1
+- **Professional Integration**: Seamlessly blends Christmas Party content with Openapi.com branding
+- **Call-to-Action**: Prominent buttons linking directly to Issue #1 and GitHub repository
 - **Contest Information**: Clear explanation of prizes and how to participate
 - **Interactive Elements**: 
   - Falling snow animation
-  - Hover effects on buttons
+  - Christmas glow animations on titles
+  - Festive card hover effects
   - Bouncing emoji animations
+  - ASCII Christmas tree
   - Konami code easter egg (↑↑↓↓←→←→BA)
-- **Mobile Responsive**: Adapts to different screen sizes
-- **Festive Design**: GitHub-dark theme with Christmas colors and gradients
+- **Christmas Theme**: Red and green color scheme integrated with Openapi.com design
 
 ### Content Management
+- `assets/html/layout.html` contains the original Openapi.com page template for reference
 - SANTA.md can be regenerated/removed with `make clean`
 - README.md contains the main party instructions and should be preserved
 - Asset images are stored in `assets/images/`

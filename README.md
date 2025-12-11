@@ -23,7 +23,7 @@ Welcome, traveler of the Internet! ❄️ You’ve just entered the **official G
 This repo is **a party**, not a project. A celebration of community, creativity, and glorious nerdiness. And the *main dance floor* is right here on GitHub.
 
 ## 🎁 **How to Join the Party (SUPER EASY!)**
-### 👉 **Go to Issue #1 and leave a comment!**
+### 👉 [**Go to Issue #1 and leave a comment!**](https://github.com/openapi/xmas-party/issues/1)
 
 That’s it. That’s the whole party.  
 No configuration.  
@@ -31,7 +31,8 @@ No setup.
 No virtualenv, no npm install, no docker-compose.  
 Just pure, unfiltered holiday joy. 🎅✨
 
-**➜ Sign the Guestbook by commenting on Issue #1** 🎄  
+[**➜ Sign the Guestbook by commenting on Issue #1**](https://github.com/openapi/xmas-party/issues/1) 🎄  
+
 You can drop:
 - 🎨 ASCII art
 - 🐇 the legendary ASCII bunny
@@ -67,7 +68,7 @@ This issue is our **Wall of Holiday Fame**. 🌟
 ## ⭐ **What You Can Do Here**
 This repo is a playground of festive nonsense:
 
-### 🎅 1. **Sign the Guestbook (Issue #1)**
+### 🎅 1. **Sign the Guestbook ([Issue #1](https://github.com/openapi/xmas-party/issues/1))**
 The heart of the celebration — write anything you want.
 
 ### ❄️ 2. **Create Emoji Banners**
@@ -100,7 +101,7 @@ Because creativity should be celebrated.
 And because GitHub Issues make a surprisingly good Christmas guestbook. 😂
 
 ## 🎄 **Join the Celebration Now**
-👉 Go to **Issue #1**  
+👉 Go to [**Issue #1**](https://github.com/openapi/xmas-party/issues/1)  
 👉 Write ANYTHING festive  
 👉 Become part of the GitHub Christmas Party lore
 

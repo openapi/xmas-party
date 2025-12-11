@@ -89,5 +89,9 @@ serve:
 # -----------------------------------------------------
 clean:
 	@echo "🧹 Cleaning the snow..."
-	rm -f SANTA.md
+	rm -f SANTA.md.bak
 	@echo "❄️ Repo workspace reset."
+
+party:
+	@echo "🎉 Let the GitHub Christmas Party begin!"
+	@echo "🎄 Enjoy the festivities and happy coding!"

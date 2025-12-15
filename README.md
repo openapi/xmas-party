@@ -110,12 +110,14 @@ The **3 most legendary comments** left in Issue #1 will be featured:
 Be creative. Be chaotic. Be festive. 🌟
 
 ## ❄️ **Why This Repo Exists**
+
 Because the world needs more joy.  
 Because developers also deserve a holiday party.  
 Because creativity should be celebrated.  
 And because GitHub Issues make a surprisingly good Christmas guestbook. 😂
 
 ## 🎄 **Join the Celebration Now**
+
 👉 Go to [**Issue #1**](https://github.com/openapi/xmas-party/issues/1)  
 👉 Write ANYTHING festive  
 👉 Become part of the GitHub Christmas Party lore

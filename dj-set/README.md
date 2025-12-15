@@ -62,4 +62,6 @@ Contributing is simple, fun, and intentionally a little bit silly.
 🎤 **Suggest a song, remix a classic, or drop your own dev-carol.**  
 This playlist grows with every commit, every PR, and every festive bug 🐞🎄
 
+---
+
 Happy coding & happy holidays! ✨🎅

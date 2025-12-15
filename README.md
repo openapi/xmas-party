@@ -81,7 +81,22 @@ Elf DevOps resolving merge conflicts?
 We want ALL OF IT.
 
 ### 🎧 4. **Join the Virtual DJ-Set**
-Leave your best coding tracks, chiptunes, cyberpunk Christmas beats.
+
+No Christmas party is complete without music — especially a **geek one**.
+
+This repository hosts a **virtual DJ-set**, curated by developers, hackers, and elves from all over the world.  
+Think of it as a shared playlist where **code meets rhythm** and the sleigh runs on beats instead of fuel.
+
+📁 **DJ-Set Folder**  
+All tracks, playlists, and references live here:
+
+👉 [**`/dj-set/`**](https://github.com/openapi/xmas-party/tree/main/dj-set)  
+(Feel free to browse, listen, and contribute!)
+
+🎅 Santa’s rule:
+> If it makes you want to code at 3 AM with hot cocoa and blinking LEDs, it belongs here.
+
+Turn up the volume, fork the repo, and let the Christmas beats flow. 🔊✨
 
 ### 🎁 5. **Explore the Magical File: `SANTA.md`**
 A lore-filled holiday letter explaining the philosophy of this party.
